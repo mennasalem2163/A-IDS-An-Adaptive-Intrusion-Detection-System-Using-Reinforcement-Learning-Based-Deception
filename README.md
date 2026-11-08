@@ -51,7 +51,7 @@ The notebook expects these UNSW-NB15 CSV files:
 - `UNSW_NB15_training-set.csv`
 - `UNSW_NB15_testing-set.csv`
 
-Dataset files are not bundled. Obtain them separately from the dataset provider and follow its usage terms. The notebook currently reads files from `/content/`, as used in Google Colab.
+Dataset files are not bundled. Download them from the [UNSW-NB15 dataset page](https://research.unsw.edu.au/projects/unsw-nb15-dataset) and follow its usage terms. The notebook currently reads files from `/content/`, as used in Google Colab.
 
 ## Getting Started
 
